@@ -17,6 +17,7 @@ body {
 
 /* ภารกิจที่ 4: จัดสไตล์รูปภาพ <img> */
 .card img {
+  max-width: 100%;
   border-radius: 50%;
   display: block;
   margin: 0 auto 15px;
